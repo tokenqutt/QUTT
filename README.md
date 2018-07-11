@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# MOTT
+>>>>>>> f68c471d34c3c422be35fbd7b1f4a0e5a2d3e797
 ## Prerequisites
 1. nodejs, and make sure it's version above 8.0.0
 2. npm
