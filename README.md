@@ -14,4 +14,4 @@
 3. run `truffle test` in another terminal to execute tests.
 
 ## Address
-https://etherscan.io/token/0xf3c9d88bf55f368a36ecbf47afbac07490235b56
+https://etherscan.io/token/0xe731e202063efa51d9d53cc0f1a607a637387438
