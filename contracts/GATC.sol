@@ -133,4 +133,4 @@ contract GATC is owned, token {
         frozenAccount[target] = freeze;
         FrozenFunds(target, freeze);
     }
-}
+} 
